@@ -1,0 +1,35 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    name: Deploy to Cloudflare
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: true # Submodule initialisieren und aktualisieren
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build
+        run: make build # Stelle sicher, dass das Makefile korrekt ist
+
+      - name: Publish Page
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: klaus-breyer-de
+          directory: public
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}

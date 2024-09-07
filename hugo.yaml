@@ -51,7 +51,7 @@ params:
 
   label:
     text: "Klaus Breyer"
-    icon: /apple-touch-icon.png
+    icon: "/images/favicon.jpg"
     iconHeight: 35
 
   # profile-mode
