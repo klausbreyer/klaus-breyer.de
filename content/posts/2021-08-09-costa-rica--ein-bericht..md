@@ -7,6 +7,8 @@ tags: ["Costa Rica", "Erfahrungen", "Reisetagebuch", "Natur", "Kultur"]
 aliases: /reise/costa-rica-ein-bericht/2463
 ---
 
+![](/images/costa.jpg)
+
 Wir waren die letzten Wochen in Costa Rica unterwegs. Immer wenn mir etwas auf- oder eingefallen ist, habe ich es aufgeschrieben. Diese Gedankenfetzen (und ein paar Bilder) möchte ich gerne mit euch teilen:
 
 **Man sieht hier ja überhaupt Sterne.**

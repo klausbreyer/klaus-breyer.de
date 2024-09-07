@@ -16,6 +16,8 @@ aliases:
   - /reise/japan-ein-bericht/2570
 ---
 
+![](/images/japan.jpg)
+
 Vom 06.08.2023 – 19.08.2023 war ich mit meiner Frau Julia in Japan. Wir hatten ziemlich viele Stationen in den kurzen 14 Tagen. Aber wir dachten: Warum sollten wir Japan anders bereisen, als die Japaner Europa bereisen?
 
 Unsere Route:

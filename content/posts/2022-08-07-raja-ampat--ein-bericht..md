@@ -16,6 +16,8 @@ tags:
 aliases: /in-eigener-sache/raja-ampat-ein-bericht/2503
 ---
 
+![](/images/raja.jpg)
+
 Raja Ampat ist der wohl der am weitesten entfernte Ort, an dem ich je war. Nicht nur geografisch, sondern von.. allem.
 
 Für alle, die es noch nicht kennen: Raja Ampat ist ein Archipel in West Papua, ganz im Osten Indonesiens, mittlere australische Zeitzone.

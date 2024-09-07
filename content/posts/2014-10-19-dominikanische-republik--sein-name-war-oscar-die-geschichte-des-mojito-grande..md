@@ -15,6 +15,8 @@ tags:
 aliases: /reise/sein-name-war-oscar-die-geschichte-des-mojito-grande/1125
 ---
 
+![](/images/dom.jpg)
+
 Der Mojito in seiner Heimat, der Karibik, ist zwar großartig, aber in Pauschalurlaub auch pauschal viel zu klein.
 
 Noch dazu verstehen in der Dominikanischen Republik die Barkeeper beim Bestellen nur Spanisch – in jeglicher Hinsicht. Man freute sich ja schon, wenn überhaupt kam, was bestellt wurde.
