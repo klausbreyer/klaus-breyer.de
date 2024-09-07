@@ -1,6 +1,6 @@
 baseURL: "https://klaus-breyer.de"
 title: Klaus Breyer
-paginate: 5
+paginate: 100
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -43,11 +43,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/images/favicon.jpg"
+    favicon16x16: "/images/favicon.jpg"
+    favicon32x32: "/images/favicon.jpg"
+    apple_touch_icon: "/images/favicon.jpg"
+    safari_pinned_tab: "/images/favicon.jpg"
 
   label:
     text: "Klaus Breyer"
@@ -113,13 +113,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: eigenesache
+      name: In eigener Sache
+      url: /categories/in-eigener-sache
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: reisenx
+      name: Reisen
+      url: /categories/reisen/
       weight: 20
     - identifier: v01
       name: v01.io
