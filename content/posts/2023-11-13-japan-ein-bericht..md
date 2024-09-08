@@ -21,12 +21,13 @@ aliases:
 Vom 06.08.2023 – 19.08.2023 war ich mit meiner Frau Julia in Japan. Wir hatten ziemlich viele Stationen in den kurzen 14 Tagen. Aber wir dachten: Warum sollten wir Japan anders bereisen, als die Japaner Europa bereisen?
 
 Unsere Route:
-06.08.2023: KIX – Transit
-07.08.2023: Ishigaki – Südseeflair und Tauchen
-11.08.2023: Kyoto – Inari, Gion & [Teeplantagentour mit Besitzer](https://dmatcha.com/)
-15.08.2023: Yakushima – 3000 Jahre alte Zedern & Mosswälder
-19.08.2023: Tokyo – Kyushu, Shibuya & [teamLab Planets](https://www.teamlab.art/e/planets/)
-21.08.2023: Rückreise
+
+- 06.08.2023: KIX – Transit
+- 07.08.2023: Ishigaki – Südseeflair und Tauchen
+- 11.08.2023: Kyoto – Inari, Gion & [Teeplantagentour mit Besitzer](https://dmatcha.com/)
+- 15.08.2023: Yakushima – 3000 Jahre alte Zedern & Mosswälder
+- 19.08.2023: Tokyo – Kyushu, Shibuya & [teamLab Planets](https://www.teamlab.art/e/planets/)
+- 21.08.2023: Rückreise
 
 Wir hatten (für unsere Verhältnisse) relativ wenig geplant. Und ich bin sehr unvoreingenommen und unvorbereitet an die Reise rangegangen. Die einzige Erwartung war, dass ich geflashed werde und meine Komfortzone verlasse.
 
