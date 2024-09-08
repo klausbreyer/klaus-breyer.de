@@ -19,9 +19,10 @@ aliases: /reise/thailand-ein-bericht/2122
 Ich war die letzten 3 Wochen in Thailand unterwegs – und habe dabei gemeinsam mit meiner Frau eine Menge Bilder und super deepe philosophische Eindrücke gesammelt und mitgebracht.
 
 **Eckdaten:**
-16.07.2019 – 19.07.2019 Bangkok
-19.07.2019 – 25.07.2019 Ko Pha-ngan
-25.07.2019 – 31.07.2019 Phuket
+
+- 16.07.2019 – 19.07.2019 Bangkok
+- 19.07.2019 – 25.07.2019 Ko Pha-ngan
+- 25.07.2019 – 31.07.2019 Phuket
 
 ## Bangkok
 
