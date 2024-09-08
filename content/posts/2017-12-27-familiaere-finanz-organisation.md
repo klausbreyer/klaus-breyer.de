@@ -15,7 +15,7 @@ tags:
 aliases: /in-eigener-sache/familiaere-finanz-organisation/1945
 ---
 
-![Familiäre Finanz-Organisation](/images/2017-12-27-Familliäre-Finanz-Organisation-2.png)
+![Familiäre Finanz-Organisation](/images/wp/2017-12-27-Familliäre-Finanz-Organisation-2.png)
 
 Bevor unser Kind auf die Welt gekommen ist, verdienten meine Frau und ich in etwa gleich viel und wir splitteten die Ausgaben grob. Als dann mit Kind und Elterngeld ein Einschnitt anstand, wollte meine Frau sich nicht „ausgehalten“ fühlen.
 

@@ -15,7 +15,7 @@ tags:
 aliases: /in-eigener-sache/erkaeltung-burn-out-des-kleinen-mannes/1726
 ---
 
-![Erkältung](/images/schnupfen-1024x538.jpg)
+![Erkältung](/images/wp/schnupfen-1024x538.jpg)
 
 Heute möchte ich mal über eine Erkältung reflektieren, die ich unlängst überwunden habe. Freitag Morgen begann ein Martyrium von 3 Tagen Halsschmerzen, gefolgt von 3 Tagen leichtem Schnupfen. Soweit, so gut. Die Symptome hat man ja schnell im Griff mit Tantum Verde, Gelomyrtol etc.
 

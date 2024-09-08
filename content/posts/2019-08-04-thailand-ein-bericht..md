@@ -28,9 +28,9 @@ Ich war die letzten 3 Wochen in Thailand unterwegs – und habe dabei gemeinsam 
 
 Bangkok wirkt nicht wie eine Großstadt, wenn man mitten drin ist. Eher wie ein gigantisches Dorf. Es ist meistens nicht sehr hoch, sondern eher flach gebaut und jeder scheint an jeder Ecke seine eigene Suppe zu kochen.
 
-![Bangkok](/images/IMG_0005-1024x768.jpeg)
-![Bangkok](/images/IMG_0007-768x1024.jpeg)
-![Bangkok](/images/IMG_0011-1024x768.jpeg)
+![Bangkok](/images/wp/IMG_0005-1024x768.jpeg)
+![Bangkok](/images/wp/IMG_0007-768x1024.jpeg)
+![Bangkok](/images/wp/IMG_0011-1024x768.jpeg)
 
 ### Wirtschaft
 
@@ -47,9 +47,9 @@ Grab – das kann man sich vorstellen wie Uber. Menschen, die sich etwas dazuver
 
 Wir nutzen das ganz gerne, um hier durch die Stadt zu kommen. Man kann sich sicher sein, dass man nicht beschissen wird, und für umgerechnet 2-3€ kommt man in einem klimatisierten Auto fast überall hin.
 
-![Verkehr in Bangkok](/images/IMG_0003-1024x768.jpeg)
-![Verkehr in Bangkok](/images/IMG_0004-1024x768.jpeg)
-![Verkehr in Bangkok](/images/IMG_0008-1024x768.jpeg)
+![Verkehr in Bangkok](/images/wp/IMG_0003-1024x768.jpeg)
+![Verkehr in Bangkok](/images/wp/IMG_0004-1024x768.jpeg)
+![Verkehr in Bangkok](/images/wp/IMG_0008-1024x768.jpeg)
 
 ### Klongs
 
@@ -59,9 +59,9 @@ Klong – Das hört sich nicht nur so an, wie wenn ein Schraubenschlüssel auf d
 
 Die Häuser an den Klongs werden auf traditionelle Bauweise gefertigt – aus Holz und Wellblech, auf Pfählen. Wenn einer verrottet, wird er nebenan durch einen neuen ersetzt. So wird die strukturelle Integrität auf organische Art und Weise sichergestellt.
 
-![Klongs](/images/IMG_0001-1024x768.jpeg)
-![Klongs](/images/IMG_0021-1024x768.jpeg)
-![Klongs](/images/IMG_0022-1024x768.jpeg)
+![Klongs](/images/wp/IMG_0001-1024x768.jpeg)
+![Klongs](/images/wp/IMG_0021-1024x768.jpeg)
+![Klongs](/images/wp/IMG_0022-1024x768.jpeg)
 
 ### Glauben
 
@@ -70,9 +70,9 @@ Ansonsten scheint es üblich zu sein, wenn man vor einer schwierigeren privaten 
 Sehr sympathischer Ansatz. Eine kleine Auszeit wünschen wir uns im Westen ja auch hin und wieder – in Thailand scheint mir das gesellschaftlich akzeptierter.
 Dafür nimmt hier niemand psychologische Hilfe in Anspruch, da sie mit einem noch höheren Makel belegt ist, als bei uns.
 
-![Glauben](/images/IMG_0043-768x1024.jpeg)
-![Glauben](/images/IMG_0006-768x1024.jpeg)
-![Glauben](/images/IMG_0033-768x1024.jpg)
+![Glauben](/images/wp/IMG_0043-768x1024.jpeg)
+![Glauben](/images/wp/IMG_0006-768x1024.jpeg)
+![Glauben](/images/wp/IMG_0033-768x1024.jpg)
 
 ### Buddhismus
 
@@ -88,17 +88,17 @@ Vielleicht ist aber ja auch genau das eben das Ideal der Freiheit: Lebensanschau
 
 Essen hat in Thailand wohl generell einen sehr hohen Stellenwert. Zuhause wird nur im Familienverbund gekocht, ansonsten scheint sich hier jeder etwas beim nächsten Streetfood-Stand zu holen, anstatt selbst zu kochen.
 
-![Streetfood](/images/IMG_0018-1024x768.jpeg)
-![Streetfood](/images/IMG_0020-1024x768.jpeg)
+![Streetfood](/images/wp/IMG_0018-1024x768.jpeg)
+![Streetfood](/images/wp/IMG_0020-1024x768.jpeg)
 
 ### Jay Fai
 
 Jay Fai ist eine 70-jährige Street Food Chef, die alleine, in Gummistiefeln, Wollmütze und Skibrille, über Holzkohle kocht. Dafür wurde sie als erstes Street Food überhaupt mit einem Michelin Stern ausgezeichnet und hat jüngst eine Netflix Doku bekommen.
 Und ich muss sagen: zurecht. Und zwar nicht nur in kleinen Portiönchen, wie man es von einem Stern erwartet, sondern richtig volle Teller und dann einfach nur mampfen bis zum Food Coma – auf unglaublich hohem Niveau.
 
-![Jay Fai](/images/IMG_0041-768x1024.jpeg)
-![Jay Fai](/images/IMG_0075-1024x768.jpg)
-![Jay Fai](/images/IMG_0040-1024x768.jpeg)
+![Jay Fai](/images/wp/IMG_0041-768x1024.jpeg)
+![Jay Fai](/images/wp/IMG_0075-1024x768.jpg)
+![Jay Fai](/images/wp/IMG_0040-1024x768.jpeg)
 
 ## Ko Pha-ngan
 
@@ -111,9 +111,9 @@ Der eigentliche USP der Insel ist ja die berühmt-berüchtigte Fullmoon Techno P
 Dann sind nämlich zu viele Menschen hier. Und dann fällt auch großflächig der Strom aus, um Licht und Sound zu betreiben.
 Aber die meisten Partygäste knipsen sich (durch überhöhten Alkoholkonsum) selbst das Licht aus. Passt also alles wieder.
 
-![Ko Pha-ngan](/images/IMG_0042-1024x768.jpeg)
-![Ko Pha-ngan](/images/IMG_0044-1024x768.jpeg)
-![Ko Pha-ngan](/images/IMG_0045-1024x768.jpeg)
+![Ko Pha-ngan](/images/wp/IMG_0042-1024x768.jpeg)
+![Ko Pha-ngan](/images/wp/IMG_0044-1024x768.jpeg)
+![Ko Pha-ngan](/images/wp/IMG_0045-1024x768.jpeg)
 
 ### Songthaew
 

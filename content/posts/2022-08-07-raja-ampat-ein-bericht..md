@@ -36,31 +36,31 @@ Allerdings super hübsch! Die Wasserfarbe ist fast überall türkis, weil es so 
 
 Viele Vögel, gibt es hier auch, jaja. Darüber hinaus kann man es zusammenfassen mit: viele Insekten, wenig Empfang.
 
-![Landschaft](/images/IMG_5885.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1569.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1580.heic-1024x768.jpg)
-![Landschaft](/images/IMG_1592.heic-1024x768.jpg)
-![Landschaft](/images/IMG_1604.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1641.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1647.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1743.HEIC-1024x758.jpg)
-![Landschaft](/images/IMG_1772.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1844.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1845.HEIC-1024x763.jpg)
-![Landschaft](/images/IMG_1910.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1914.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_1929.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2266.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2322.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2337.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2515.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2620.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_2700.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_6040.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_6065.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_6102.HEIC-1024x768.jpg)
-![Landschaft](/images/IMG_6150.HEIC-768x1024.jpg)
-![Landschaft](/images/IMG_6172.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_5885.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1569.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1580.heic-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1592.heic-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1604.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1641.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1647.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1743.HEIC-1024x758.jpg)
+![Landschaft](/images/wp/IMG_1772.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1844.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1845.HEIC-1024x763.jpg)
+![Landschaft](/images/wp/IMG_1910.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1914.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_1929.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2266.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2322.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2337.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2515.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2620.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_2700.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_6040.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_6065.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_6102.HEIC-1024x768.jpg)
+![Landschaft](/images/wp/IMG_6150.HEIC-768x1024.jpg)
+![Landschaft](/images/wp/IMG_6172.HEIC-1024x768.jpg)
 
 ## Marine Artenvielfalt
 
@@ -70,17 +70,17 @@ Wir hatten bis vor unseren Bungalow riesige Korallenriffe mit Rochen, Haien und 
 
 Aber in der Strömung ist die Nahrung der Fische, habe ich gelernt. Deshalb sind dort viele kleine Fische, und deshalb sind dort viele große Fische.
 
-![Marine Artenvielfalt](/images/4F902A3C-AAAA-4E4D-A23F-DB63A3B056E9-1024x581.jpg)
-![Marine Artenvielfalt](/images/IMG_2586-1024x904.jpg)
-![Marine Artenvielfalt](/images/IMG_2587-1024x584.jpg)
-![Marine Artenvielfalt](/images/IMG_2589-1024x588.jpg)
-![Marine Artenvielfalt](/images/IMG_2592-1024x590.jpg)
-![Marine Artenvielfalt](/images/IMG_2593-1024x577.jpg)
-![Marine Artenvielfalt](/images/IMG_2595-1024x584.jpg)
-![Marine Artenvielfalt](/images/IMG_2596-1024x614.jpg)
-![Marine Artenvielfalt](/images/IMG_2597-1024x558.jpg)
-![Marine Artenvielfalt](/images/IMG_2668-1024x584.jpg)
-![Marine Artenvielfalt](/images/IMG_2670-1024x584.jpg)
+![Marine Artenvielfalt](/images/wp/4F902A3C-AAAA-4E4D-A23F-DB63A3B056E9-1024x581.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2586-1024x904.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2587-1024x584.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2589-1024x588.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2592-1024x590.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2593-1024x577.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2595-1024x584.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2596-1024x614.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2597-1024x558.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2668-1024x584.jpg)
+![Marine Artenvielfalt](/images/wp/IMG_2670-1024x584.jpg)
 
 ## Nahrung
 
@@ -90,8 +90,8 @@ Ebenfalls Früchte, denn die schmecken ja ohnehin immer am besten in den Länder
 
 Ach, und auch die Schlangenfrüchte dürfen nicht unerwähnt bleiben. Darin habe ich eine ganz neue Liebe entdeckt. Herrlich!
 
-![Nahrung](/images/IMG_2240.HEIC-1024x768.jpg)
-![Nahrung](/images/IMG_6264.HEIC-1024x768.jpg)
+![Nahrung](/images/wp/IMG_2240.HEIC-1024x768.jpg)
+![Nahrung](/images/wp/IMG_6264.HEIC-1024x768.jpg)
 
 ## Feuchtigkeit
 
@@ -101,7 +101,7 @@ Alles hier ist feucht. Oder wird irgendwann feucht. Denn alles passt sich der Lu
 
 Alle Taschenbuch-Deckel wölben sich und selbst die dicken Flugtickets fühlten sich an wie nach einem Vollbad..
 
-![Feuchtigkeit](/images/IMG_6153.HEIC-1024x768.jpg)
+![Feuchtigkeit](/images/wp/IMG_6153.HEIC-1024x768.jpg)
 
 ## Sterne
 
@@ -111,9 +111,9 @@ Die habe ich seit 20 Jahren nicht mehr gesehen. (Ich hatte schon einen Trip in d
 
 Aber hier ging das fast genauso gut.
 
-![Sterne](/images/IMG_5970.HEIC-1024x768.jpg)
-![Sterne](/images/IMG_2606.HEIC-1024x768.jpg)
-![Sterne](/images/IMG_2605.HEIC-768x1024.jpg)
+![Sterne](/images/wp/IMG_5970.HEIC-1024x768.jpg)
+![Sterne](/images/wp/IMG_2606.HEIC-1024x768.jpg)
+![Sterne](/images/wp/IMG_2605.HEIC-768x1024.jpg)
 
 ## Architektur
 
@@ -127,10 +127,10 @@ Die Bauten haben kein deutsches Qualitätsniveau: Alle Türen fallen ständig au
 
 Eigentlich eine traditionelle Bauweise aus Papua. Aber man muss es sich leisten können. Die meisten dort noch wohnenden einheimischen Stämme können sich derzeit leider lediglich Wellblech leisten.
 
-![Architektur](/images/IMG_6062.HEIC-768x1024.jpg)
-![Architektur](/images/IMG_6105.HEIC-1024x768.jpg)
-![Architektur](/images/IMG_6154.HEIC-768x1024.jpg)
-![Architektur](/images/IMG_2271.HEIC-1024x768.jpg)
+![Architektur](/images/wp/IMG_6062.HEIC-768x1024.jpg)
+![Architektur](/images/wp/IMG_6105.HEIC-1024x768.jpg)
+![Architektur](/images/wp/IMG_6154.HEIC-768x1024.jpg)
+![Architektur](/images/wp/IMG_2271.HEIC-1024x768.jpg)
 
 ## Jakarta
 

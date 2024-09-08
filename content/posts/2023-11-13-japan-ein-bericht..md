@@ -42,13 +42,13 @@ Enttäuscht wurde ich nicht. Im Folgenden meine Gedanken die ich während der Re
 
 ## Kulturelle Eigenheiten
 
-![Japan](/images/IMG_2761-1024x768.jpg)
-![Japan](/images/IMG_2762-1024x768.jpg)
-![Japan](/images/IMG_3100-1024x768.jpg)
-![Japan](/images/IMG_3101-1024x768.jpg)
-![Japan](/images/IMG_3121-1024x768.jpg)
-![Japan](/images/IMG_3936-768x1024.jpg)
-![Japan](/images/IMG_4312-1024x768.jpg)
+![Japan](/images/wp/IMG_2761-1024x768.jpg)
+![Japan](/images/wp/IMG_2762-1024x768.jpg)
+![Japan](/images/wp/IMG_3100-1024x768.jpg)
+![Japan](/images/wp/IMG_3101-1024x768.jpg)
+![Japan](/images/wp/IMG_3121-1024x768.jpg)
+![Japan](/images/wp/IMG_3936-768x1024.jpg)
+![Japan](/images/wp/IMG_4312-1024x768.jpg)
 
 - Ungewöhnlich, dass man in der Bahn nicht redet. Überhaupt geht alles sehr geordnet und gesittet zu. (Bis auf die Touristen aus Europa und Südamerika)
 - Die Japaner haben so ein lustigen Fake-Joggen wenn sie so tun als würden sie sich beeilen.
@@ -64,15 +64,15 @@ Enttäuscht wurde ich nicht. Im Folgenden meine Gedanken die ich während der Re
 
 ## Alltag und Umgebung
 
-![Alltag in Japan](/images/IMG_2465-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2533-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2536-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2543-768x1024.jpg)
-![Alltag in Japan](/images/IMG_2546-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2556-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2598-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2603-1024x768.jpg)
-![Alltag in Japan](/images/IMG_2757-768x1024.jpg)
+![Alltag in Japan](/images/wp/IMG_2465-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2533-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2536-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2543-768x1024.jpg)
+![Alltag in Japan](/images/wp/IMG_2546-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2556-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2598-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2603-1024x768.jpg)
+![Alltag in Japan](/images/wp/IMG_2757-768x1024.jpg)
 
 - Die unglaublich hohe Temperatur und Luftfeuchtigkeit.
 - Man könnte eigentlich die ganze Zeit Fotos machen. Diese Schriftzeichen, die so bunt sind und die man so wenig versteht.
@@ -83,11 +83,11 @@ Enttäuscht wurde ich nicht. Im Folgenden meine Gedanken die ich während der Re
 
 ## Essen und Trinken
 
-![Essen in Japan](/images/IMG_2743-1024x768.jpg)
-![Essen in Japan](/images/IMG_3546-1024x768.jpg)
-![Essen in Japan](/images/IMG_3631-1024x768.jpg)
-![Essen in Japan](/images/IMG_3840-1024x768.jpg)
-![Essen in Japan](/images/IMG_3983-1024x768.jpg)
+![Essen in Japan](/images/wp/IMG_2743-1024x768.jpg)
+![Essen in Japan](/images/wp/IMG_3546-1024x768.jpg)
+![Essen in Japan](/images/wp/IMG_3631-1024x768.jpg)
+![Essen in Japan](/images/wp/IMG_3840-1024x768.jpg)
+![Essen in Japan](/images/wp/IMG_3983-1024x768.jpg)
 
 - Überall Automaten, wo man sich Getränke zu fairen Preisen kaufen kann. Eine große Flasche Wasser kostet umgerechnet einen Euro.
 - Sie lieben Schweinebauch hier. Und ich auch!

@@ -12,7 +12,7 @@ Nochmal laufen gehen, solange man kann. Egal was für eine unsportliche Figur ei
 
 Die Markthalle in Kreuzberg – gespenstisch. Schon mittags die absolute starke Vermutung, dass das wohl das letzte Mal so wie immer war. Angst um den “Hipster-Lifestyle”. Aber vor allem Trauer um und mit kulinarischen Kleinst-Unternehmern.
 
-![Bäckerei Sironi, wo sonst eine Schlange ist.](/images/IMG_2370-1024x783.jpg)
+![Bäckerei Sironi, wo sonst eine Schlange ist.](/images/wp/IMG_2370-1024x783.jpg)
 _Bäckerei Sironi, wo sonst eine Schlange ist._
 
 Im Prenzlauer Berg waren aber alle nochmal draußen. Der erbärmlichste Park wird zum größten Happening. Vor allem die Jugend muss sich nochmal treffen und billigen Alkohol trinken. Die Eltern haben am Wochenende mit ihren Kindern schon die ersten Frühlingssonnenstrahlen genossen. Aber heute sind alle ein letztes Mal gemeinsam draußen. Um 18 Uhr kündigt die Kanzlerin die ersten Einschränkungen des öffentlichen Lebens an.

@@ -14,7 +14,7 @@ tags:
 aliases: /in-eigener-sache/zwischen-selbstmitleid-und-scheiss-drauf/1117
 ---
 
-![Schulter-Bänderriss](/images/schulter.png)
+![Schulter-Bänderriss](/images/wp/schulter.png)
 
 Wenn man, wie ich, einen Verkehrsunfall hatte, bei dem der rechte [Oberarmknochen die Bänder der Schulter sprengt](https://de.wikipedia.org/wiki/Schultereckgelenksverrenkung), dann dauert das nicht nur sehr lange bis man wieder mit zwei Händen einen Computer bedienen kann, sondern es ändert sich noch vieles mehr. Naja. Jedenfalls kann ich jetzt wieder einen Computer bedienen und damit auch welche Veränderungen damit in meinem Leben einher gingen.
 

@@ -15,7 +15,7 @@ tags:
 aliases: /in-eigener-sache/generation-schlachtzug-was-vom-raiden-im-kinderzimmer-blieb/942
 ---
 
-![World of Warcraft Grobbulus Kill](/images/Foto-3-750x450-Kopie-2.jpg)
+![World of Warcraft Grobbulus Kill](/images/wp/Foto-3-750x450-Kopie-2.jpg)
 _World of Warcraft Grobbulus Kill_
 
 Ich hatte von 2004 bis 2007 viel Zeit in der Welt von World of Warcraft verbracht. In zwei vollen Lebensjahren hatte ich 150 Tage “ingame” verbracht. Und ich bereue keinen einzigen Tag davon. Zum bald 10jährigen Jubiläum möchte ich mal ein kleines Resumé ziehen und erzählen, was das Spiel aus und mit mir gemacht hat.

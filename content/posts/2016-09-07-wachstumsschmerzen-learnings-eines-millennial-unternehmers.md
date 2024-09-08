@@ -16,7 +16,7 @@ tags:
 aliases: /in-eigener-sache/wachstumsschmerzen-learnings-eines-millennial-unternehmers/1767
 ---
 
-![Millennial Unternehmer](/images/klaus-breyer-24.jpg)
+![Millennial Unternehmer](/images/wp/klaus-breyer-24.jpg)
 
 Eigentlich mag ich den Begriff Millennial oder Generation Y, X und Z überhaupt nicht, aber ich hoffe, damit ein paar Klicks zu generieren. So eine „Generation“ beschreibt ja lediglich, wie alt jemand zu welcher technologischen Entwicklungsstufe war. Pauschale Eigenschaften (Unabhängigkeit, Erfolgswillen, etc.) dieser Gruppen lehne ich ab, da sich diese mit dem Alter ohnehin ständig ändern.
 

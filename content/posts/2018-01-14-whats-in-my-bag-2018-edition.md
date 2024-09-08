@@ -7,7 +7,7 @@ tags: ["Gadgets", "Reisen", "Ausrüstung", "Technik", "Empfehlungen"]
 aliases: /in-eigener-sache/whats-in-my-bag-2018-edition/2008
 ---
 
-![What's in My Bag 2018](/images/2017-01-14whats-in-my-bag-1024x768.jpg)
+![What's in My Bag 2018](/images/wp/2017-01-14whats-in-my-bag-1024x768.jpg)
 
 **1. Bag:** Meine Bag ist eher ein Bagpack, kommt [von Vaude und nennt sich PETros](http://amzn.to/2D3BbPX). Ich mag Vaude aus Heimatverbundenheit. Aber die machen auch ganz viel für den Umweltschutz und so, scheint also moralisch vertretbar zu sein. Dieser Rucksack ist z. B. aus recycleltem PET. Das ist deren bester Laptop-Rucksack, der zugleich noch genügend Platz hat. Der funktioniert für mich genauso, wenn ich mal für 1-2 Tage auf Geschäftsreise bin oder einmal in der Woche meine Sportsachen mit auf Arbeit nehme.
 

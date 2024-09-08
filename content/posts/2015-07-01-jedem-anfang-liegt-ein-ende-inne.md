@@ -16,7 +16,7 @@ tags:
 aliases: /in-eigener-sache/in-jedem-anfang-liegt-ein-ende-inne/1496
 ---
 
-![buddybrand Abschied](/images/IMG_1826-1024x579.jpg)
+![buddybrand Abschied](/images/wp/IMG_1826-1024x579.jpg)
 
 Ich habe nach über 5 Jahren mein Amt als technischer Geschäftsführer von buddybrand niedergelegt.
 
