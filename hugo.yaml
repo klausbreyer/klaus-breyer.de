@@ -1,6 +1,7 @@
 baseURL: "https://klaus-breyer.de"
 title: Klaus Breyer
-paginate: 100
+pagination:
+  pagerSize: 100
 theme: PaperMod
 
 enableRobotsTXT: true
