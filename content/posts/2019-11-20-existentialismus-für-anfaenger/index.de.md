@@ -2,7 +2,7 @@
 title: "Existentialismus für Anfänger"
 date: 2019-11-20
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags: ["Existentialismus", "Leben", "Philosophie", "Elternschaft", "Gedanken"]
 aliases: /in-eigener-sache/existentialismus-fur-anfanger/2452
 ---

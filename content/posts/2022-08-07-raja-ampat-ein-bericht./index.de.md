@@ -2,7 +2,7 @@
 title: "Raja Ampat – Ein Bericht."
 date: 2022-08-07
 draft: false
-categories: ["Reisen"]
+categories: ["Travel"]
 tags:
   [
     "Raja Ampat",

@@ -2,7 +2,7 @@
 title: "Schulter-Bänderriss: Zwischen Selbstmitleid und Scheiss drauf!"
 date: 2014-09-30
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags:
   [
     "Verkehrsunfall",

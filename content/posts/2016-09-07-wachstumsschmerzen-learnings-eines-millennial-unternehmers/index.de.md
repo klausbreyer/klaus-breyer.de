@@ -2,7 +2,7 @@
 title: "Wachstumsschmerzen: Learnings eines Millennial Unternehmers"
 date: 2016-09-07
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags:
   [
     "Millennials",

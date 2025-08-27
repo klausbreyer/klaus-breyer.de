@@ -2,7 +2,7 @@
 title: "Thailand – Ein Bericht."
 date: 2019-08-04
 draft: false
-categories: ["Reisen"]
+categories: ["Travel"]
 tags:
   [
     "Thailand",

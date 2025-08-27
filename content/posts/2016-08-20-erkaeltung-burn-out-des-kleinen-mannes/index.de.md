@@ -2,7 +2,7 @@
 title: "Erkältung – Burn Out des kleinen Mannes"
 date: 2016-08-20
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags:
   [
     "Erkältung",

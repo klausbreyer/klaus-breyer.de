@@ -2,7 +2,7 @@
 title: "Dominikanische Republik / Sein Name war Oscar: Die Geschichte des Mojito Grande."
 date: 2014-10-19
 draft: false
-categories: ["Reisen"]
+categories: ["Travel"]
 tags:
   [
     "Dominikanische Republik",

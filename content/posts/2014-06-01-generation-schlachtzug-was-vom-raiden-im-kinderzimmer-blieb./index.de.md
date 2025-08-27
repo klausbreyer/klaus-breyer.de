@@ -2,7 +2,7 @@
 title: "Generation Schlachtzug – was vom Raiden im Kinderzimmer blieb."
 date: 2014-06-01
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags:
   [
     "World of Warcraft",

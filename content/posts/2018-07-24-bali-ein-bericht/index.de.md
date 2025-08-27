@@ -2,7 +2,7 @@
 title: "Bali – Ein Bericht."
 date: 2018-07-24
 draft: false
-categories: ["Reisen"]
+categories: ["Travel"]
 tags: ["Bali", "Java", "Indonesien", "Reiseerfahrung", "Kultur", "Fotografie"]
 aliases: /reise/bali-reisebericht/2033
 ---

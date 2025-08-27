@@ -2,7 +2,7 @@
 title: "Familiäre Finanz-Organisation"
 date: 2017-12-27
 draft: false
-categories: ["In eigener Sache"]
+categories: ["Personal"]
 tags:
   [
     "Finanzen",
